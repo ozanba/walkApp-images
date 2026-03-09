@@ -1,5 +1,6 @@
 .DS_Store
 incoming/
+incoming-rome-*/
 photos/*/1920/*.jpg
 photos/*/1280/*.jpg
 photos/*/640/*.jpg
